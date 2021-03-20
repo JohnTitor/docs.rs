@@ -11,3 +11,4 @@ target
 .rustwide
 .rustwide-docker
 .workspace
+.vscode
