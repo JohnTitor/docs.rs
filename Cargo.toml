@@ -8,6 +8,8 @@ repository = "https://github.com/rust-lang/docs.rs"
 build = "build.rs"
 edition = "2018"
 
+# something
+
 [workspace]
 exclude = [
     "ignored",
